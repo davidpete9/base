@@ -5,7 +5,7 @@ This is a sample application for the verification laboratory.
 ## Getting started
 
 
-AAAAAAAAAAAA
+BBBBBBBBB
 
 * The application is implemented in Java.
 * The project can be built using [Gradle](https://gradle.org/).
